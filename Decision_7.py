@@ -1,9 +1,9 @@
 country = input("enter your contry\n ").upper()
-if country == "malasia":
+if country == "Malaysia":
 	message = "hello welcome"
-elif country == "usa":
+elif country == "USA":
 	message == "hey woelcome"
-#elif country == "uk":
+#elif country == "USA":
 #	 message = "welcome"
 #else:
 #	message = "not listed country"
